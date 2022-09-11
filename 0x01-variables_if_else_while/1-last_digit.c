@@ -3,9 +3,6 @@
 #include <stdio.h>
 /**
  *main - print the last degit
- * 
- *
- *
  *Return: 0
  */
 int main(void)
