@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  *main - Entry point
  *Description: using the main function
  *this prints all possible different combinations of 3 digits
